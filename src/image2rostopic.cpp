@@ -21,6 +21,7 @@ int main(int argc, char** argv)
   while (nh.ok()) 
   {
     // cout<<"n:"<<n<<endl;
+   // test
     ostringstream os;
     os<<"/media/user/Pxy_HardDisk/DataSET/rgbd-scenes-v2_imgs/rgbd-scenes-v2/imgs/scene_14/"//path
     << setw(5) << setfill('0') //format
